@@ -1,0 +1,14 @@
+.gun{
+    text-align: center;
+    color: beige;
+    margin-top: 65px;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.card-header, .card-body{
+    border-style :solid;
+    border-width: 1px 1px 1px 1px;
+    border-color:grey;
+    
+}
